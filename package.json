@@ -29,6 +29,7 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.2.1",
     "ng-scrollreveal": "^2.2.0",
+    "node-sass": "^4.9.4",
     "rxjs": "^5.5.2",
     "scrollreveal": "^3.3.6",
     "zone.js": "^0.8.14"
